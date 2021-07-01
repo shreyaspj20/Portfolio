@@ -19,7 +19,7 @@ In this project, we propose a new approach to song recommendation, where in the 
 * **Output:** List of 10 recommended songs.
 
 # [Project 2: Autonomous Driving Car simulation](https://github.com/shreyaspj20/Autonomous-Driving-Car-simulation-using-Pytorch)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+![alt text](roberto-nickson-Ddjl0Cicdr4-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Roberto Nickson</a> on <a href="https://unsplash.com/s/photos/autonomous-driving?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
