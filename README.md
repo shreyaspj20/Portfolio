@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shreyaspj20/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Shreyas P J
+*An Aspiring Data Scientist | 2X Kaggle Expert*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Education
+* Bachelors of Technology (Infformation Technology), *International Institute of Information Technology, Bhubaneswar*, 2019-2023.
+* Pre-University College (Electronics), *VVS Sardar Patel Pre-University College, Bengaluru*, 2017-2019.
+* School (ICSE), *The New Cambridge High School, Bengaluru*, 2007-2017.
 
-### Markdown
+# [Emotion Based Music Recommender System](https://github.com/shreyaspj20/Music-recommendation-system)
+![alt text](bruce-mars-DBGwy7s3QY0-unsplash.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Photo by <a href="https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">bruce mars</a> on <a href="https://unsplash.com/s/photos/music-recommeder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-```markdown
-Syntax highlighted code block
+In this project, we propose a new approach to song recommendation, where in the mood of a person is determined from his picture and based on the mood predicted song recommendations are made that best suit the mood predicted.
+* **Python libraries used:** OpenCV, Tensorflow and Keras, Sklearn, LightGBM, Spotipy, Tkinter, Pillow
+* **Input:** Camera photo in real time
+* **Output:** List of 10 recommended songs.
 
-# Header 1
-## Header 2
-### Header 3
+# [Project 2: Autonomous Driving Car simulation](https://github.com/shreyaspj20/Autonomous-Driving-Car-simulation-using-Pytorch)
+![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
 
-- Bulleted
-- List
+Photo by <a href="https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Roberto Nickson</a> on <a href="https://unsplash.com/s/photos/autonomous-driving?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shreyaspj20/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In this project, we will be using camera sensors(center,left and right) implanted on the car to make predictions on the steering angle.This steering angle will be used to control the car. We will start of with building a model with the architecture which is defined in the NVIDIA reasearch paper https://arxiv.org/pdf/1604.07316v1.pdf. 
+* **Python libraries used:** OpenCV, Torch, Torchvision, Socketio, Pillow.
+* **Input:** Training images generated from UNITY simulator.
+* **Output:** Autonomous Driving Car.
