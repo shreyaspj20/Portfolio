@@ -10,8 +10,6 @@
 # [Emotion Based Music Recommender System](https://github.com/shreyaspj20/Music-recommendation-system)
 ![alt text](bruce-mars-DBGwy7s3QY0-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@brucemars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">bruce mars</a> on <a href="https://unsplash.com/s/photos/music-recommeder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 
 In this project, we propose a new approach to song recommendation, where in the mood of a person is determined from his picture and based on the mood predicted song recommendations are made that best suit the mood predicted.
 * **Python libraries used:** OpenCV, Tensorflow and Keras, Sklearn, LightGBM, Spotipy, Tkinter, Pillow
@@ -21,8 +19,7 @@ In this project, we propose a new approach to song recommendation, where in the 
 # [Project 2: Autonomous Driving Car simulation](https://github.com/shreyaspj20/Autonomous-Driving-Car-simulation-using-Pytorch)
 ![alt text](roberto-nickson-Ddjl0Cicdr4-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@rpnickson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Roberto Nickson</a> on <a href="https://unsplash.com/s/photos/autonomous-driving?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
 
 In this project, we will be using camera sensors(center,left and right) implanted on the car to make predictions on the steering angle.This steering angle will be used to control the car. We will start of with building a model with the architecture which is defined in the NVIDIA reasearch paper https://arxiv.org/pdf/1604.07316v1.pdf. 
 * **Python libraries used:** OpenCV, Torch, Torchvision, Socketio, Pillow.
